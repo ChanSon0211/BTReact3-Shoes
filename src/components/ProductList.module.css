@@ -1,8 +1,0 @@
-.row {
-    display:  flex;
-}
-.col {
-    width: 33.33%;
-    box-sizing: border-box;
-    pad: 0 15px;
-}

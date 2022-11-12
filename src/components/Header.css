@@ -1,0 +1,16 @@
+.header {
+    background-color: green;
+    display: flex;
+    justify-content: space-around;
+    height: 80px;
+    align-items: center;
+}
+.header .logo {
+    font-size: 40px;
+    color: aliceblue;
+
+}
+.header .navbar a {
+    margin: 0 20px;
+    color: red;
+}
